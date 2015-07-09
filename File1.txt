@@ -1,2 +1,2 @@
 Ward: this is a text file!
-Ward: adding a new line or text.
+Ward: adding second line or text.
