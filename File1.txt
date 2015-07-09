@@ -1,2 +1,3 @@
-Ward: this is a text file!
-Ward: adding secnd line or text.
+Ward: This is a text file.
+Wise: Yes, This indeed is a text file.
+Ward: adding a new line or text right now.
